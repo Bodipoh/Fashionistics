@@ -5,7 +5,7 @@ h1{
 body{
     background-color:grey;
     font-family: sans-serif;
-    font-size: medium;
+    font-size:medium;
     font-weight: bold;
     line-height:normal;
 }
@@ -91,7 +91,7 @@ a:visited{
 
 .my-form input[type="text"], .my-form textarea {
     padding:8px;
-    width:30%;
+    width:20%;
 }
 
 .button {
