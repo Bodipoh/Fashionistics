@@ -17,8 +17,10 @@ fetch('https://fakestoreapi.com/products').then ((data)=> {
         });
         document.getElementById("table-body").innerHTML=tableData;
         }).catch((err)=>{
-                console.log(error);
+           console.log(error);     
         })
 
-
-            
+document.addEventListener("click", function(){          
+  document.body.style.backgroundColor = "beige";
+});
+           
