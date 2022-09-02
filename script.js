@@ -1,4 +1,4 @@
-//const title = document.getElementsByClassName('table-dark')
+const title = document.getElementsByClassName('table-dark')
 
 
 fetch('https://fakestoreapi.com/products').then ((data)=> {   //Fetch data 
