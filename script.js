@@ -21,6 +21,6 @@ fetch('https://fakestoreapi.com/products').then ((data)=> {
         })
 
 document.addEventListener("click", function(){          
-  document.body.style.backgroundColor = "beige";
-});
+  document.body.style.backgroundColor = "lime";
+})
            
