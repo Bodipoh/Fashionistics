@@ -1,10 +1,10 @@
 //const title = document.getElementsByClassName('table-dark')
 
 
-fetch('https://fakestoreapi.com/products').then ((data)=> {
-        return data.json();
-}).then((objectData) =>{
-        console.log(objectData[0].title);
+fetch('https://fakestoreapi.com/products').then ((data)=> {   //Fetch data 
+        return data.json();                        //json data
+}).then((objectData) =>{                            
+        console.log(objectData[0].title);          //object data 
         let tableData = "";
         objectData.map((values)=>{
                 //tableData+=`<h1>${values.title}</h1>`;
