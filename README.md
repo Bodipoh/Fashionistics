@@ -18,7 +18,7 @@ This website displays images,prices and description of the items on the page.
 
 
 GETTING STARTED
-Users need to click on the website link https://bodipoh.github.io/Fashionistics/ in their browser to access it.
+Users need to click on the website link https://bodipoh.github.io/Fashionistics/ in their browser to view.
 
 
 
